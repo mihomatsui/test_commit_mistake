@@ -1,3 +1,2 @@
-puts "おはようございます。"
-puts "はじめまして。"
-puts "こんにちは。"
+puts "Good morning"
+puts "Hello"
